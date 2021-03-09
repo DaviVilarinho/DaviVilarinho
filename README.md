@@ -1,6 +1,6 @@
 # Sim, eu sou o Vilarinho
 
-Estudo Ciência da Computação na UFU i sô minero uai 🤠
+Estudo Ciência da Computação na UFU
 
 ---
 
