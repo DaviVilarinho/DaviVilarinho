@@ -4,7 +4,7 @@ Estudo Ciência da Computação na UFU
 
 ---
 
-No momento estou aprendendo desenvolvimento Mobile com Android, usando Kotlin, mas claro que dá pra ler com Java
+No momento estou aprendendo desenvolvimento Mobile com Android
 
 Gosto de uns programas minimalistas para uso pessoal, de preferência FOSS.
 
