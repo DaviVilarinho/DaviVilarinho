@@ -6,8 +6,11 @@ Estudo Ciência da Computação na UFU
 
 No momento estou aprendendo desenvolvimento Mobile com Android
 
-Gosto de uns programas minimalistas para uso pessoal, de preferência FOSS.
+Gosto bastante de Linux, usando o Fedora no momento 🐧
 
-Gosto bastante de Linux, btw I use Arch 🐧
+## Com o que já lidei
+
++ API: requisições e parsing;
++ 
 
 **Se quer falar comigo pode me contatar por e-mail: davi.r.vilarinho@gmail.com**
