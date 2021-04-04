@@ -25,6 +25,7 @@ Gosto bastante de Linux, usando o Fedora no momento 🐧
 
 + Git
 + Kotlin
++ Android Studio
 + Linux
 + SQL
 + C
@@ -44,6 +45,7 @@ Gosto bastante de Linux, usando o Fedora no momento 🐧
 + Debian
 + Arch
 + Ubuntu
++ Virtualização
 + CentOS
 + Pandoc, Markdown & Beamer para documentos do dia-a-dia
 
@@ -53,5 +55,3 @@ Gosto bastante de Linux, usando o Fedora no momento 🐧
 ### Qual é a melhor distro e qual o seu workflow?
 
 ```Just werks``` é a *final redpill*, Fedora tem suporte da gigante Red Hat e não consigo encontrar um problema no oferecimento de suporte e na filosofia. Boa documentação, embora eu acabe recorrendo à arch wiki comumente.
-
-Não utilizo mais window managers porque, embora tenha dado-me grandes conhecimentos, a verdade é que nós só fazemos rice com propósito diversão. Se quer produtividade, pegue um DE e pronto. Usando o Gnome porque amei o workflow sem precisar de atalhos multiteclas, embora não compactue com o que o projeto tem se tornado.
