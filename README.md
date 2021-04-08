@@ -6,7 +6,7 @@ Estudo Ciência da Computação na UFU 🇧🇷
 
 No momento estou aprendendo desenvolvimento Mobile com Android 📱
 
-Gosto bastante de Linux, usando o Fedora no momento 🐧
+Gosto bastante de Linux, usando o Open Suse Tumbleweed no momento 🐧
 
 ## Com o que já lidei
 
@@ -47,11 +47,8 @@ Gosto bastante de Linux, usando o Fedora no momento 🐧
 + Ubuntu
 + Virtualização
 + CentOS
++ openSUSE
 + Pandoc, Markdown & Beamer para documentos do dia-a-dia
 
 
 **Se quer falar comigo pode me contatar por e-mail: davi.r.vilarinho@gmail.com**
-
-### Qual é a melhor distro e qual o seu workflow?
-
-```Just werks``` é a *final redpill*, Fedora tem suporte da gigante Red Hat e não consigo encontrar um problema no oferecimento de suporte e na filosofia. Boa documentação, embora eu acabe recorrendo à arch wiki comumente.
