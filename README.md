@@ -8,6 +8,6 @@ A **huuuuuge** enthusiast of Linux world and free software 🐧
 
 \> Implying that I'm not an average Arch Linux User
 
-Studying some Android features, but the soul is Devops 
+Studying for devops/infrastructure.
 
 **Mail me >>> davi.r.vilarinho@gmail.com**
