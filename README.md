@@ -10,6 +10,6 @@ A **huuuuuge** enthusiast of Linux world and free software 🐧
 
 19 yo
 
-Studying Virtualization and Pipelines.
+Getting in touch with some computer stuff. Spring is nice!
 
 **Mail me >>> davi.r.vilarinho@gmail.com**
