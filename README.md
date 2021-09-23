@@ -6,7 +6,7 @@
 - CS student at UFU 🔺🇧🇷
 - 19 yo
 
-Getting in touch with some computer stuff. Spring is nice!
+Getting in touch with some computer stuff, a little bit addicted in automating financial stuff.
 
 I want to think myself as a problem solver. Life is actually a bunch of problems and living is recursively solving them.
 
