@@ -4,9 +4,7 @@
 
 - Davi Vilarinho
 - CS student at UFU 🔺🇧🇷
-- 19 yo
-
-Getting in touch with some computer stuff, a little bit addicted to automating financial stuff.
+- 20 yo
 
 I want to think myself as a problem solver. Life is actually a bunch of problems and living is recursively solving them.
 
