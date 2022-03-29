@@ -15,6 +15,7 @@
   - 2021/12: cicd prospecting
   - 2022/02: auto and highly available cicd
   - 2022/02: db scability with java api and AWS RDS
+  - 2022/02: AWS jobs triggering business rules in java api
   - 2022/03: AWS RDS cross-accounts recovery and copy automatization
 
 
