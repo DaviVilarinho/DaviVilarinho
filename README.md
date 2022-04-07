@@ -11,12 +11,16 @@
   - 2021/06: developing an extra website with php and plain html that could convert between markdown files to presentations
 - 2021/08: helping stock technical analysis in Java here in github
 - 2021/11 - now: proudly working at Exacode 🚀 
-  - 2021/11: node.js apis
-  - 2021/12: cicd prospecting
-  - 2022/02: auto and highly available cicd
-  - 2022/02: db scability with java api and AWS RDS
-  - 2022/02: AWS jobs triggering business rules in java api
-  - 2022/03: AWS RDS cross-accounts recovery and copy automatization
+  - 2021/11: node.js apis 🪚
+  - 2021/12: cicd prospecting 💡
+  - 2022/02: auto and highly available cicd ⚒️
+  - 2022/02: db scability with java api and AWS RDS ⚖️
+  - 2022/02: AWS jobs triggering business rules in java api 🔄
+  - 2022/03: AWS RDS cross-accounts recovery and copy automatization 🖨️
+  - 2022/03: Firebase user authentication 🔒
+  - 2022/03: User (authorized) data prospecting with social providers 🕵️‍♀️
+  - 2022/03: Firebase Storage and Flutter screens integration 📱🖼️
+  - 2022/04: Firebase security permissions 🔓
 
 
 **Mail me >>> davi.r.vilarinho@gmail.com**
