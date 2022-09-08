@@ -1,30 +1,53 @@
-# Yes, I'm Vilarinho 😳 👉 👈
+**Hey I'm Vilarinho and you can mail me at davi.r.vilarinho\@gmail.com**
 
-~$ whoami
+Also you can find me at [vilarinho.click](vilarinho.click)
 
-- Davi Vilarinho
-- CS student at UFU 🔺🇧🇷
-- 20 yo
-- 2021/05 - 2021/07: top secret TIC company (informal)
-  - 2021/03: contacting responsible that was missing SSL encryption in their wiki and how to solve this problem
-  - 2021/05 - 2021/06: developing an automatic container that would actually solve versions problems and SSL encryption
-  - 2021/06: developing an extra website with php and plain html that could convert between markdown files to presentations
-- 2021/08: helping stock technical analysis in Java here in github
-- 2021/11 - now: proudly working at Exacode 🚀 
-  - 2021/11: node.js apis 🪚
-  - 2021/12: cicd prospecting 💡
-  - 2022/02: auto and highly available cicd ⚒️
-  - 2022/02: db scability with java api and AWS RDS ⚖️
-  - 2022/02: AWS jobs triggering business communication rules in java api 🔄
-  - 2022/03: AWS RDS cross-accounts recovery and (complianced) copy automatization 🖨️
-  - 2022/03: Firebase user authentication 🔒
-  - 2022/03: User (authorized) data prospecting with social providers 🕵️‍♀️
-  - 2022/03: Firebase Storage and Flutter screens integration 📱🖼️
-  - 2022/04: Firebase security permissions 🔓
-  - 2022/05: Firebase deep links, IOS VM's builds, Autorouter implementation in Flutter 🛣️
-  - 2022/05: Discount implementation 🏪
-  - 2022/05: Developing user prospecting and complianced telemetry 🔎
-  - 2022/06/15: Android's Estabiliza App Deploy and Release https://play.google.com/store/apps/details?id=br.com.exacode.estabiliza&hl=en&gl=US
+2021-05 - 2021-07: top secret tic company (informal)
+----------------------------------------------------
 
+-   2021-03: contacting responsible that was missing ssl encryption in
+    their wiki and explained how to solve this problem
+-   2021-05 - 2021-06: developing an automatic container that would
+    actually solve versions problems and ssl encryption, i have also
+    managed to solve
+    [mediawiki](https://www.mediawiki.org/wiki/help:links/en) issues
+    (outdated and insecure)
+-   2021-06: developing an extra website with vanilla php and html that
+    could convert between markdown files to presentations
+-   2021-08: helping stock technical analysis in java
 
-**Mail me >>> davi.r.vilarinho@gmail.com**
+2021-11 - 2022-08: proudly worked at Exacode 🚀
+----------------------------------------------
+
+-   2021-11: node.js apis 🪚
+-   2021-12: cicd prospecting 💡
+-   2022-02: auto and highly available cicd ⚒️
+-   2022-02: db scability with java api and aws rds ⚖️
+-   2022-02: aws jobs triggering business communication rules in java
+    api 🔄
+-   2022-03: aws rds cross-accounts recovery and (complianced) copy
+    automatization 🖨️
+-   2022-03: firebase user authentication 🔒
+-   2022-03: user (authorized) data prospecting with social providers
+    🕵️‍♀️
+-   2022-03: firebase storage and flutter screens integration 📱🖼️
+-   2022-04: firebase security permissions 🔓
+-   2022-05: firebase deep links, ios vm\'s builds, autorouter
+    implementation in flutter 🛣️
+-   2022-05: discount implementation 🏪
+-   2022-05: developing user prospecting and complianced telemetry 🔎
+-   2022-06-15: android\'s
+    [estabiliza](https://play.google.com/store/apps/details?id=br.com.exacode.estabiliza&hl=en&gl=us)
+    app deploy and release
+-   2022-06: using exacode\'s acquired experience, created auto [self
+    hosted git instance](https://docs.gitea.io/)
+-   2022-07: created kernel module with academic purposes
+
+2022-08 - present: focusing at uni
+----------------------------------
+
+-   2022-08: automating and developing my own task management system
+    [maid](https://github.com/DaviVilarinho/maid) (learning Lua).
+    -   based in plain text
+    -   based in dirs and plain files
+    -   yes, i tried org mode, too much hassle.
