@@ -1,4 +1,4 @@
-**Hey I'm Vilarinho and you can mail me at davi.r.vilarinho\@gmail.com**
+**Hey I'm Vilarinho and you can mail me at davi.vilarinho\@ufu.br**
 
 Also you can find me at [vilarinho.click](vilarinho.click)
 
