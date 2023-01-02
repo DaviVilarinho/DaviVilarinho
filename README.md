@@ -1,7 +1,5 @@
 **Hey I'm Vilarinho and you can mail me at davi.vilarinho\@ufu.br**
 
-Also you can find me at [vilarinho.click](vilarinho.click)
-
 2021-05 - 2021-07: top secret tic company (informal)
 ----------------------------------------------------
 
@@ -51,3 +49,5 @@ Also you can find me at [vilarinho.click](vilarinho.click)
     -   based in plain text
     -   based in dirs and plain files
     -   yes, i tried org mode, too much hassle.
+-   2022-09: Joined eletroapp
+    -   flutterfire based app for UFU's chemestry professor Sheila
