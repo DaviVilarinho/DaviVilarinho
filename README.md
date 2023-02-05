@@ -14,40 +14,25 @@
     could convert between markdown files to presentations
 -   2021-08: helping stock technical analysis in java
 
-2021-11 - 2022-08: proudly worked at Exacode 🚀
+2021-11 - 2022-08: proudly served at Exacode 🚀
 ----------------------------------------------
 
--   2021-11: node.js apis 🪚
--   2021-12: cicd prospecting 💡
--   2022-02: auto and highly available cicd ⚒️
--   2022-02: db scability with java api and aws rds ⚖️
--   2022-02: aws jobs triggering business communication rules in java
-    api 🔄
--   2022-03: aws rds cross-accounts recovery and (complianced) copy
-    automatization 🖨️
--   2022-03: firebase user authentication 🔒
--   2022-03: user (authorized) data prospecting with social providers
-    🕵️‍♀️
--   2022-03: firebase storage and flutter screens integration 📱🖼️
--   2022-04: firebase security permissions 🔓
--   2022-05: firebase deep links, ios vm\'s builds, autorouter
-    implementation in flutter 🛣️
--   2022-05: discount implementation 🏪
--   2022-05: developing user prospecting and complianced telemetry 🔎
--   2022-06-15: android\'s
-    [estabiliza](https://play.google.com/store/apps/details?id=br.com.exacode.estabiliza&hl=en&gl=us)
-    app deploy and release
--   2022-06: using exacode\'s acquired experience, created auto [self
-    hosted git instance](https://docs.gitea.io/)
--   2022-07: created kernel module with academic purposes
+Developed node.js api's 🪚 dealing with pdf's 🗃️ and also image microsservices 🖼️.
+
+Deployed production-grade intermittent CI/CD on AWS ⚒️ (auto turn-off based on non-work hours)
+
+Extended Java API ☕ and React Front-end ⚛️ to scale AWS RDS 💾 and automatic backup/snapshot, allow cross-account recovery and complianced 🔒 copy automatically and also provide user (consented) data to business intelligence counterpart.
+
+Developed Firebase user authentication 🔒, pictures and storage integration 🖼️, deep link connectivity 🔗, iOS VM builds. 
+Everything in flutter and [estabiliza](https://play.google.com/store/apps/details?id=br.com.exacode.estabiliza&hl=en&gl=us)
 
 2022-08 - present: focusing at uni
 ----------------------------------
 
--   2022-08: automating and developing my own task management system
-    [maid](https://github.com/DaviVilarinho/maid) (learning Lua).
-    -   based in plain text
-    -   based in dirs and plain files
-    -   yes, i tried org mode, too much hassle.
--   2022-09: Joined eletroapp
-    -   flutterfire based app for UFU's chemestry professor Sheila
+
+
+Using exacode\'s acquired experience, created auto [self hosted git instance](https://docs.gitea.io/)
+
+Created (Linux) kernel module with academic purposes.
+
+Developed flutterfire app for UFU's chemestry professor Sheila.
