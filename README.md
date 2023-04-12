@@ -1,19 +1,5 @@
 **Hey I'm Vilarinho and you can mail me at davi.vilarinho\@ufu.br**
 
-2021-05 - 2021-07: top secret tic company (informal)
-----------------------------------------------------
-
--   2021-03: contacting responsible that was missing ssl encryption in
-    their wiki and explained how to solve this problem
--   2021-05 - 2021-06: developing an automatic container that would
-    actually solve versions problems and ssl encryption, i have also
-    managed to solve
-    [mediawiki](https://www.mediawiki.org/wiki/help:links/en) issues
-    (outdated and insecure)
--   2021-06: developing an extra website with vanilla php and html that
-    could convert between markdown files to presentations
--   2021-08: helping stock technical analysis in java
-
 2021-11 - 2022-08: proudly served at Exacode 🚀
 ----------------------------------------------
 
