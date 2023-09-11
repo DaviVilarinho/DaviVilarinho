@@ -1,24 +1,47 @@
-**Hey I'm Vilarinho and you can mail me at davi.vilarinho\@ufu.br**
+**Olá, eu sou o Vilarinho e você pode me contatar aqui -> davi.vilarinho\@ufu.br**
 
-2021-11 - 2022-08: proudly served at Exacode 🚀
+2021-05 - 2021-07: Experimentos com professores
 ----------------------------------------------
 
-Developed node.js api's 🪚 dealing with pdf's 🗃️ and also image microsservices 🖼️.
+Criei um sistema de conversão de artigos de uma wiki para slides, utilizando pandoc, php.
 
-Deployed production-grade intermittent CI/CD on AWS ⚒️ (auto turn-off based on non-work hours)
+Desenvolvido solução para segurança e criptografia para redeploy de um docker monolítico para uma correta arquitetura com contêineres para mediawiki e certbot (bem como o sistema acima mencionado).
 
-Extended Java API ☕ and React Front-end ⚛️ to scale AWS RDS 💾 and automatic backup/snapshot, allow cross-account recovery and complianced 🔒 copy automatically and also provide user (consented) data to business intelligence counterpart.
+Descontinuado por regras de estágio da UFU.
 
-Developed Firebase user authentication 🔒, pictures and storage integration 🖼️, deep link connectivity 🔗, iOS VM builds. 
-Everything in flutter and [estabiliza](https://play.google.com/store/apps/details?id=br.com.exacode.estabiliza&hl=en&gl=us)
+2021-11 - 2022-08: Desenvolvimento na Exacode 🚀
+----------------------------------------------
 
-2022-08 - present: focusing at uni
+Desenvolvimento com **node.js** 🪚: api's auxiliares de imagem com ImageMagick e GraphicsMagick 🖼️, pdf para boletos 🗃️.
+
+Deploy de CI/CD intermitente na AWS ⚒️ (desligamento fora de horário de serviço)
+
+Trabalho com API Java ☕ e Front-End React ⚛️.
+- Permitindo e instruindo representantes do cliente terem controle da escalabilidade geral do sistema (dias de alto tráfego planejado).
+- Planejamento de backups e snapshots automáticos de Banco AWS RDS, permitindo recuperação e testes 💾 entre contas AWS.
+- Provisão de consentidos dados de leads para BI durante o funil de vendas.
+
+Mobile:
+- Autenticação de usuário com Firebase 🔒
+- Armazenamento de imagens e dados integrados 🖼️
+- Deep links 🔗
+- Builds em iOS VM.
+  
+Em Flutter, desenvolvemos: [estabiliza](https://play.google.com/store/apps/details?id=br.com.exacode.estabiliza&hl=en&gl=us)
+
+2022-08 - present: Pós Exacode, Foco na Universidade
 ----------------------------------
 
+Testei ferramentas como uma [instância git self-hosted](https://docs.gitea.io/)
 
+Exploração do kernel linux com desenvolvimento de módulos do kernel
 
-Using exacode\'s acquired experience, created auto [self hosted git instance](https://docs.gitea.io/)
+Projetos: 
+- **Flutterfire app** para professora dra. Sheila da Engenharia Química.
+- **Iniciação Científica**: [Estudo de Drift de modelos de Machine Learning de previsão de QoS com métricas de rede](https://github.com/DaviVilarinho/ic-intervalo-qos)
 
-Created (Linux) kernel module with academic purposes.
+# Tooling
+---------
 
-Developed flutterfire app for UFU's chemestry professor Sheila.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviVilarinho&show_icons=true&locale=en&layout=compact" alt="DaviVilarinho" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DaviVilarinho&show_icons=true&locale=en" alt="DaviVilarinho" /></p>
