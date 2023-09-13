@@ -29,7 +29,7 @@ Mobile:
   
 Em Flutter, desenvolvemos: [estabiliza](https://play.google.com/store/apps/details?id=br.com.exacode.estabiliza&hl=en&gl=us)
 
-2022-08 - present: Pós Exacode, Foco na Universidade
+2022-08 - 2022-12: Pós Exacode, Foco na Universidade
 ----------------------------------
 
 Testei ferramentas como uma [instância git self-hosted](https://docs.gitea.io/)
@@ -38,7 +38,12 @@ Exploração do kernel linux com desenvolvimento de módulos do kernel
 
 Projetos: 
 - **Flutterfire app** para professora dra. Sheila da Engenharia Química.
+
+2023: PET, Iniciação Científica
+---
+
 - **Iniciação Científica**: [Estudo de Drift de modelos de Machine Learning de previsão de QoS com métricas de rede](https://github.com/DaviVilarinho/ic-intervalo-qos)
+- **Mini curso de Python**
 
 # Tooling
 ---------
