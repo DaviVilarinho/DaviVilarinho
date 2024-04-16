@@ -43,10 +43,21 @@ Projetos:
 ---
 
 - **Iniciação Científica**: [Estudo de Drift de modelos de Machine Learning de previsão de QoS com métricas de rede](https://github.com/DaviVilarinho/ic-intervalo-qos)
-- **Mini curso de Python**
+- Lecionei **Mini curso de Python**
+
+2024: Prax Tecnologia
+----------
+
+Em abril ingressei na Prax Tecnologia no cargo de estagiário desenvolvedor **Front End** com Vue.js.
+- Aprendizado com 4 cursos Alura Vue
+- Aprendizado com curso Vue Mastery
+
+Na UFU...
+- Monitoria Modelagem e Simulação (Processos Estocásticos) e C++ pelo Uberhub.
 
 # Tooling
 ---------
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviVilarinho&show_icons=true&locale=en&layout=compact" alt="DaviVilarinho" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=jupyter%20notebook)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DaviVilarinho&show_icons=true&locale=en" alt="DaviVilarinho" /></p>
