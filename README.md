@@ -1,16 +1,30 @@
 **Olá, eu sou o Vilarinho e você pode me contatar aqui -> davi.vilarinho\@ufu.br**
 
-2021-05 - 2021-07: Experimentos com professores
-----------------------------------------------
+# 2024: Prax Tecnologia
 
-Criei um sistema de conversão de artigos de uma wiki para slides, utilizando pandoc, php.
+Em abril ingressei na Prax Tecnologia no cargo de estagiário desenvolvedor **Front End** com Vue.js.
+- Desenvolvimento de ChatBot com Typescript & Node.js: orientei e refatorei código existente de forma que incluísse abstrações do ramo, testes e generalização para outras redes sociais que não WhatsApp.
+- Aprendizado com 5 cursos Alura Vue & CSS
+- Aprendizado com curso Vue Mastery
 
-Desenvolvido solução para segurança e criptografia para redeploy de um docker monolítico para uma correta arquitetura com contêineres para mediawiki e certbot (bem como o sistema acima mencionado).
+Na UFU...
+- Monitoria Modelagem e Simulação (Processos Estocásticos) e C++ pelo Uberhub.
 
-Descontinuado por regras de estágio da UFU.
+# 2023: PET, Iniciação Científica
 
-2021-11 - 2022-08: Desenvolvimento na Exacode 🚀
-----------------------------------------------
+- **Iniciação Científica**: [Estudo de Drift de modelos de Machine Learning de previsão de QoS com métricas de rede](https://github.com/DaviVilarinho/ic-intervalo-qos)
+- Lecionei **Mini curso de Python**
+
+# 2022-08 - 2022-12: Pós Exacode, Foco na Universidade
+
+Testei ferramentas como uma [instância git self-hosted](https://docs.gitea.io/)
+
+Exploração do kernel linux com desenvolvimento de módulos do kernel
+
+Projetos: 
+- **Flutterfire app** para professora dra. Sheila da Engenharia Química.
+
+# 2021-11 - 2022-08: Desenvolvimento na Exacode 🚀
 
 Desenvolvimento com **node.js** 🪚: api's auxiliares de imagem com ImageMagick e GraphicsMagick 🖼️, pdf para boletos 🗃️.
 
@@ -27,33 +41,16 @@ Mobile:
 - Deep links 🔗
 - Builds em iOS VM.
   
-Em Flutter, desenvolvemos: [estabiliza](https://play.google.com/store/apps/details?id=br.com.exacode.estabiliza&hl=en&gl=us)
+Em Flutter, desenvolvemos o [estabiliza](https://play.google.com/store/apps/details?id=br.com.exacode.estabiliza&hl=en&gl=us) com o Firebase de back-end.
 
-2022-08 - 2022-12: Pós Exacode, Foco na Universidade
-----------------------------------
 
-Testei ferramentas como uma [instância git self-hosted](https://docs.gitea.io/)
+# 2021-05 - 2021-07: Experimentos com professores
 
-Exploração do kernel linux com desenvolvimento de módulos do kernel
+Criei um sistema de conversão de artigos de uma wiki para slides, utilizando pandoc, php.
 
-Projetos: 
-- **Flutterfire app** para professora dra. Sheila da Engenharia Química.
+Desenvolvido solução para segurança e criptografia para redeploy de um docker monolítico para uma correta arquitetura com contêineres para mediawiki e certbot (bem como o sistema acima mencionado).
 
-2023: PET, Iniciação Científica
----
-
-- **Iniciação Científica**: [Estudo de Drift de modelos de Machine Learning de previsão de QoS com métricas de rede](https://github.com/DaviVilarinho/ic-intervalo-qos)
-- Lecionei **Mini curso de Python**
-
-2024: Prax Tecnologia
-----------
-
-Em abril ingressei na Prax Tecnologia no cargo de estagiário desenvolvedor **Front End** com Vue.js.
-- Aprendizado com 4 cursos Alura Vue
-- Aprendizado com curso Vue Mastery
-
-Na UFU...
-- Monitoria Modelagem e Simulação (Processos Estocásticos) e C++ pelo Uberhub.
+Descontinuado por regras de estágio da UFU.
 
 # Tooling
 ---------
